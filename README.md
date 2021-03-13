@@ -1,4 +1,4 @@
-# MyAnimeList_Sentiment_Analysis
+# MyAnimeList_Sentiment_Analysis_and_Topic_Modelling
 
 Streamlit Link: https://s4myanimelist.herokuapp.com/
 
